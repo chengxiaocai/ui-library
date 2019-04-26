@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="E:/androidstudio-app-formatter.xml" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="id" value="1522049263586" />
+        <option name="importOrderConfigFilePath" value="E:/androidstudio-app-formatter.xml" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="Default (Template) Project copy copy copy" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Desktop/code-style.xml" />
+      </Settings>
+    </option>
+  </component>
+</project>

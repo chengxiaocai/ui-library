@@ -1,0 +1,2 @@
+1.getRawX()、getRawY()返回的是触摸点相对于屏幕的位置，而getX()、getY()返回的则是触摸点相对于View的位置
+2.
