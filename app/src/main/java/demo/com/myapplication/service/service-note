@@ -1,0 +1,4 @@
+1、android:enabled 这个属性用于指示该服务是否能够被实例化。
+2、android:exported 这个属性用于指示该服务是否能够被其他应用程序组件调用或跟它交互。
+3、interService handerIntent执行完毕 立马结束  如果队列未结束 一个个执行 直到最后一个执行完毕 结束生命周期
+4、连续unbindService 崩溃

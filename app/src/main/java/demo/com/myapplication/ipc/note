@@ -1,0 +1,2 @@
+1、process：  com.cc:test  /  com.cc.test  前者为应用私有进程  其他应用不可跑在同一个进程
+2、
